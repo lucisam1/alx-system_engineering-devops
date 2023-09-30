@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp lucisam hello
+chgrp school hello
